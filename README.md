@@ -1,2 +1,38 @@
 # Cart_Abandonment
-This is an classification model which shows the customer will do cart abandonment or not.
+This is an classification model which predicts the customer will do cart abandonment or not.
+
+## Installation
+1. Python3.6
+2. Pandas
+3. NumPy
+4. Matplotlib
+6. Seaborn
+7. sklearn
+8. scipy
+
+## Motivation
+This project is developed to predict if a customer will leave after adding products to cart or he will purchase that item. By knowing this, let's say if we can predict that a customer will do abandonment then we gave that customer some special discount so that he can able to do checkout.
+
+## File Description
+The project is divided into 7 parts:
+1. Reading Dataset
+2. EDA
+3. Data pre-processing
+4. Feature Selection 
+5. Modelling
+6. Evaluation
+7. Load model to pickel file
+
+## How to interact with your project?
+Here you just need to install python and install the packages that are listed above and open this .ipymb file in your jupyter notebook and just run all cell or just click <b>SHIFT + ENTER</b> to run cell one by one.
+
+## Licensing
+This is just for learning.
+
+## Authors
+  Biswajit Satapathy
+   Jr. Data Analyst
+    Aptus Data Labs 
+    
+## Acknowledgement
+Special thanks to Pramit Kumar Patra for giving his valuable time for teaching me statistics and machine learning.
