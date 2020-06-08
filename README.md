@@ -18,6 +18,11 @@ This project is developed to predict if a customer will leave after adding produ
 2. cart_abandonment.ipynb : Notebook file contaning the exploration and analysis of the work.
 3. README.md : The readme file for write-up.
 
+## Summary of the results
+If a customer is visiting to the website and adding some items to the cart at that time we are predicting that he will do abandonment or not. By knowig so, we can suggest him some offers or give them some vouchers so that he can checkout the product successfully. 
+
+Benefit of this is cart abandonment ratio will decrease which in terms increase in profits(business perspective).
+
 ## Prediction is divided into the following steps
 1. Reading Dataset
 2. EDA
