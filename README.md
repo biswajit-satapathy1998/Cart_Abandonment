@@ -13,8 +13,12 @@ This is an classification model which predicts the customer will do cart abandon
 ## Motivation
 This project is developed to predict if a customer will leave after adding products to cart or he will purchase that item. By knowing this, let's say if we can predict that a customer will do abandonment then we gave that customer some special discount so that he can able to do checkout.
 
-## File Description
-The project is divided into 7 parts:
+## Files in the repository
+1. data_cart_abandonment.csv : The dataset file.
+2. cart_abandonment.ipynb : Notebook file contaning the exploration and analysis of the work.
+3. README.md : The readme file for write-up.
+
+## Prediction is divided into the following steps
 1. Reading Dataset
 2. EDA
 3. Data pre-processing
